@@ -1,0 +1,1 @@
+This is Brick's first git project!
